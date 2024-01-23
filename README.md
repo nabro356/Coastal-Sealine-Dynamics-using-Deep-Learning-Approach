@@ -1,0 +1,2 @@
+# Coastal-Sealine-Dynamics-using-Deep-Learning-Approach
+The proposed initiative aims to predict the change in coastline in Krishna-Godavari delta.Various machine learning, deep learning and statistical models were used to predict future changes in shoreline and these changes are visualized using the elevation map layered Google Earth Engine to provide an  visualization of submersion-prone regions.
